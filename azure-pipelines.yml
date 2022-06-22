@@ -8,6 +8,7 @@ trigger:
 
 pool:
   vmImage: ubuntu-latest
+  batch: true
 
 steps:
 - task: Maven@3
