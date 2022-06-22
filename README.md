@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/MarcoGiannini/pipelines-java/_apis/build/status/janao.pipelines-java?branchName=azure-pipelines)](https://dev.azure.com/MarcoGiannini/pipelines-java/_build/latest?definitionId=1&branchName=azure-pipelines)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
